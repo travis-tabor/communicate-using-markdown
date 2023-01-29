@@ -9,4 +9,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 - [x] Make some money
 - [x] Buy a nice guitar
-- [] Repeat
+- [ ] Repeat
