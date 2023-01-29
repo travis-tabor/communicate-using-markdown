@@ -7,3 +7,6 @@ And this is not
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Make some money
+- [x] Buy a nice guitar
+- [] Repeat
